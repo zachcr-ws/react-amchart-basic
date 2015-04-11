@@ -1,0 +1,44 @@
+.react-table-view {
+  margin: 0;
+  font-size: 150%;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+.react-table-view table{
+  background-color: #ffffff;
+  width:100%;
+  height:100%;
+}
+
+.react-table-view .pure-table thead {
+  background: #f7f7f7;
+  
+}
+.react-table-view .pure-table thead th,.react-table-view .pure-table thead th td{
+    border: 1px solid #eee;
+    padding:5px 20px;
+  }
+
+.react-table-view .pure-table tbody tr,.react-table-view .pure-table tbody tr td {
+    padding: 5px 20px;
+    border: 1px solid #eee;
+}
+
+/*
+.react-table-view .sort-up {
+  display: inline-block;
+  margin-left: 0.6em;
+  border-left: 0.6em solid transparent;
+  border-right: 0.6em solid transparent;
+  border-bottom: 0.6em solid #7f7f7f;
+}
+
+.react-table-view .sort-down {
+  display: inline-block;
+  margin-left: 0.6em;
+  border-left: 0.6em solid transparent;
+  border-right: 0.6em solid transparent;  
+  border-top: 0.6em solid #7f7f7f;
+}
+*/
